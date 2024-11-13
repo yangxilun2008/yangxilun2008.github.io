@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-About Me"
 
   - title: "Experience"
-    url: "/#experience"
+    url: "/#-Experience"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-Publications"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#-Education"
 
   - title: "Research and Practical Fields"
-    url: "/#research and practical fields"
+    url: "/#-Research and Practical Fields"
