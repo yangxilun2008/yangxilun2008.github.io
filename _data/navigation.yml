@@ -4,13 +4,13 @@ main:
     url: "/#About Me"
 
   - title: "Experience"
-    url: "/#Experience"
+    url: "/#-experience"
 
   - title: "Publications"
-    url: "/#Publications"
+    url: "/#-publications"
 
   - title: "Education"
-    url: "/#Education"
+    url: "/#-education"
 
   - title: "Research Fields"
-    url: "/#Research Fields"
+    url: "/#-research-and-practical-fields"
