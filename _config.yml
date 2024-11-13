@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xilun Yang's Homepage"
-description              : "Get a quick understanding on me "
+description              : "Experienced Organisation and Talent Development Expert "
 repository               : "yangxilun2008/yangxilun2008.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xilun Yang"
+  name             : "Dr. Xilun Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "OD and TD Expert"
+  bio              : "Neusoft Medical System"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
