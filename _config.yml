@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dr.Yang Xilun"
+  name             : "Dr. Yang Xilun"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "NMS System Inc."
   location         : "Beijing, China"
