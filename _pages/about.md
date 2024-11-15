@@ -32,7 +32,7 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JISIS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unveiling the Dynamics of Entrepreneurial Leadership and Radical Innovation Performance of China Internet SMEs: Resource-based View](https://jisis.org/wp-content/uploads/2024/10/2024.I4.004.pdf)
+[Unveiling the Dynamics of Entrepreneurial Leadership and Radical Innovation Performance of China Internet SMEs: Resource-based View](https://jisis.org/article/2024.I4.004/71385/)
 
 **Xilun Yang**, Harry Entebang
 
