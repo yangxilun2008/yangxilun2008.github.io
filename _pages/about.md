@@ -45,7 +45,7 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 - *2022.03 - (now)*, Universiti Malaysia Sarawak(Malaysia), PhD in Management Studies
 - *2012.08 - 2013.09*, University of Hertfordshire(UK), Master of Arts in Management
 - *2012.08 - 2013.09*, INTI International University(Malaysia), MBA
-- *2015.09 - 2019.06*, Northeastern University(CN), Bachelor of Economics  
+- *2008.09 - 2012.06*, Northeastern University(CN), Bachelor of Economics  
 
 # 💻 Research and Practical Fields
 - Familiar with talent and organizational developments theories and practical practices.
