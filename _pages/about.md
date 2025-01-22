@@ -77,7 +77,7 @@ International Journal of Business Innovation and Research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMD 2025</div><img src='images/JMD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Role of Absorptive Capacity and Innovation Climate in Entrepreneurial Leadership's Influence on Innovation Performance in Northeast China Startups](https://10.1108/JMD-04-2024-0146)
+[The Role of Absorptive Capacity and Innovation Climate in Entrepreneurial Leadership's Influence on Innovation Performance in Northeast China Startups](https://doi.org/10.1108/JMD-04-2024-0146)
 
 Journal of Management Development
 
