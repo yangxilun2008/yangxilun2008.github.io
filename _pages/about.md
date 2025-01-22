@@ -33,6 +33,7 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 <div class='paper-box-text' markdown="1">
 
 [Unveiling the Dynamics of Entrepreneurial Leadership and Radical Innovation Performance of China Internet SMEs: Resource-based View](https://jisis.org/article/2024.I4.004/71385/)
+
 Journal of Internet Services and Information Security
 
 **Xilun Yang**, Harry Entebang
@@ -58,6 +59,7 @@ International Journal of Entrepreneurial Venturing
 <div class='paper-box-text' markdown="1">
 
 [Pathways To Radical Innovation in The Post-Pandemic Era: Entrepreneurial Leadership, Organisational Resilience, And Environmental Dynamism](https://doi.org/10.1504/IJBIR.2024.10065041)
+
 International Journal of Business Innovation and Research
 
 **Xilun Yang**, Harry Entebang
@@ -70,6 +72,7 @@ International Journal of Business Innovation and Research
 <div class='paper-box-text' markdown="1">
 
 [The Role of Absorptive Capacity and Innovation Climate in Entrepreneurial Leadership's Influence on Innovation Performance in Northeast China Startups](https://10.1108/JMD-04-2024-0146)
+
 Journal of Management Development
 
 **Xilun Yang**, Harry Entebang
