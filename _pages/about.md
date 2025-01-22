@@ -92,5 +92,10 @@ Journal of Management Development
 - *2008.09 - 2012.06*, Bohai University(CN), Bachelor of Education  
 
 # 💻 Research and Practical Fields
-- Familiar with talent and organizational developments theories and practical practices.
-- Certified Trainer providing 500 hrs seminars.
+- Research Area(s): Leadership and Innovation; Management; Orgnisational Change.
+- Practical Areas(s): OD and TD expert with 500 hours training experience.
+- Certified Alibaba Cloud Assisstant Engineer
+- Certified Mercer IPE Position Evaluation
+- Certified Beisen Talent Assessement Expert
+- Certified YH Business Insights Engineer
+- Certified LinkedIn Interviewer
