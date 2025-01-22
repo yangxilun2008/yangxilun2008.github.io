@@ -45,6 +45,7 @@ Journal of Internet Services and Information Security
 <div class='paper-box-text' markdown="1">
 
 [ CEOs' Entrepreneurial Leadership and Radical Innovation Performance of Internet Firms in China: Upper Echelons Theory](https://doi.org/10.1504/IJEV.2025.10068595)
+
 International Journal of Entrepreneurial Venturing
 
 **Xilun Yang**, Harry Entebang
@@ -62,7 +63,7 @@ International Journal of Business Innovation and Research
 **Xilun Yang**, Harry Entebang
 
 [**Abstract**](https://doi.org/10.1504/IJBIR.2024.10065041) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Organisational resilience, a dynamic capability aiding businesses in crisis recovery, such as in the post-Covid era, facilitates effective crisis response and sustainable development. This article delves into the significance of organisational resilience for Chinese new ventures, exploring its intrinsic connection with entrepreneurial leadership and radical innovation performance amid external environmental influences. The study reveals that entrepreneurial leadership significantly bolsters organisational resilience and radical innovation performance by utilising data from small to medium-sized new ventures across Beijing, Shanghai, and Guangzhou. Moreover, organisational resilience is pivotal in linking entrepreneurial leadership and radical innovation performance. External environmental characteristics also influence the interplay between entrepreneurial leadership and organisational resilience. This research delineates how new venture managers, by exercising entrepreneurial leadership, bolster organisational resilience and growth capacities, thereby enhancing overall performance and offering strategic insights for post-COVID-19 new ventures' growth.. 
+- Organisational resilience, a dynamic capability aiding businesses in crisis recovery, such as in the post-Covid era, facilitates effective crisis response and sustainable development. This article delves into the significance of organisational resilience for Chinese new ventures, exploring its intrinsic connection with entrepreneurial leadership and radical innovation performance amid external environmental influences. . 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JISIS 2024</div><img src='images/JMD.png' alt="sym" width="100%"></div></div>
