@@ -33,6 +33,7 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 <div class='paper-box-text' markdown="1">
 
 [Unveiling the Dynamics of Entrepreneurial Leadership and Radical Innovation Performance of China Internet SMEs: Resource-based View](https://jisis.org/article/2024.I4.004/71385/)
+Journal of Internet Services and Information Security
 
 **Xilun Yang**, Harry Entebang
 
@@ -44,19 +45,19 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 <div class='paper-box-text' markdown="1">
 
 [ CEOs' Entrepreneurial Leadership and Radical Innovation Performance of Internet Firms in China: Upper Echelons Theory](https://doi.org/10.1504/IJEV.2025.10068595)
-[International Journal of Entrepreneurial Venturing]
+International Journal of Entrepreneurial Venturing
 
 **Xilun Yang**, Harry Entebang
 
 [**Abstract**](https://doi.org/10.1504/IJEV.2025.10068595) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Building on the upper echelons theory, this study investigates the impact of entrepreneurial leadership (EL) on radical innovation performance (RI) while also examining the potential mediation role of innovation climate (IC) and the moderation role of technology turbulence (TT) in Chinese internet firms. This study employs partial least square structural equation modelling to confirm that entrepreneurial leadership positively influences radical innovation performance, mediated by innovation climate. Additionally, technological turbulence weakens this relationship. In fostering organisational radical innovation, the originality and value of the study lie in addressing the scarcity of research on the role of entrepreneurial leadership amongst CEOs, particularly with regard to the mechanisms of innovation climate and technological turbulence in China. The study's limitations provide recommendations for future research to broaden the scope to management teams, diverse factors, longitudinal data, and various institutional contexts to enhance innovation strategies.. 
+- Building on the upper echelons theory, this study investigates the impact of entrepreneurial leadership (EL) on radical innovation performance (RI) while also examining the potential mediation role of innovation climate (IC) and the moderation role of technology turbulence (TT) in Chinese internet firms. This study employs partial least square structural equation modelling to confirm that entrepreneurial leadership positively influences radical innovation performance, mediated by innovation climate.. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JISIS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pathways To Radical Innovation in The Post-Pandemic Era: Entrepreneurial Leadership, Organisational Resilience, And Environmental Dynamism](https://doi.org/10.1504/IJBIR.2024.10065041)
-[International Journal of Business Innovation and Research]
+International Journal of Business Innovation and Research
 
 **Xilun Yang**, Harry Entebang
 
@@ -68,7 +69,7 @@ Versatile OD&TD expert with years of experiences in world top MNCs and consultin
 <div class='paper-box-text' markdown="1">
 
 [The Role of Absorptive Capacity and Innovation Climate in Entrepreneurial Leadership's Influence on Innovation Performance in Northeast China Startups](https://10.1108/JMD-04-2024-0146)
-[Journal of Management Development]
+Journal of Management Development
 
 **Xilun Yang**, Harry Entebang
 
