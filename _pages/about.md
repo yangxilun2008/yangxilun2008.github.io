@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Versatile OD&TD expert with years of experiences in world top MNCs and consulting firms in China and Malaysia, with dual masters in MBA/Management Science and dual bachelor's degrees in Literature/Economics. Solid knowledge and skills in HR, Computer Science and Statistics areas. Familiar with HRIS and capable of leading HR initiatives and building HR system&policies from 0 to 1. Lead and involved in HR functions including performance management, recruitment, leadership development, culture management, training and OD theory and practices. 
+A Ph.D. in Management with dual master’s degrees in International MBA and Management, Xilun Yang brings over a decade of experience in organizational and talent development within Fortune 500 corporations, BAT (Baidu, Alibaba, Tencent), and leading talent consulting firms.
+Xilun excels in organizational diagnostics and talent development strategies aligned with business objectives. Their expertise spans strategic consulting in talent and organizational development, having participated in projects for organizations in China and Malaysia. As the first author, Xilun has published four papers in top international management journals.
+On the implementation front, Xilun has contributed to strategic initiatives for organizational and talent restructuring at group-level BAT and multinational corporations. They have also served as a trainer and talent development specialist, actively building organizational and talent capabilities.
+Xilun is skilled in data-driven insights, conducting behavioral and competency analyses of key organizational talent. They have successfully established competency and behavior labs for internet and traditional industries in domestic and international enterprises, providing ongoing consultancy services as an external expert to BAT and leading unicorn companies. 
 
 
 # 🔥 Experience
