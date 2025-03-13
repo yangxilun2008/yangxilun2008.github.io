@@ -85,7 +85,7 @@ Journal of Management Development
 </div>
 
 # 📖 Education
-- *2022.03 - (now)*, Universiti Malaysia Sarawak(Malaysia), PhD in Management Studies
+- *2022.03 - 2025.03*, Universiti Malaysia Sarawak(Malaysia), PhD in Management
 - *2012.08 - 2013.09*, University of Hertfordshire(UK), Master of Arts in Management(Dual Master)
 - *2012.08 - 2013.09*, INTI International University(Malaysia), MBA
 - *2008.09 - 2012.06*, Northeastern University(CN), Bachelor of Economics(Dual Bachelor)
