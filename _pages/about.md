@@ -23,7 +23,7 @@ A skilled practitioner of data-driven talent strategies, Xilun excels in behavio
 
 
 # 🔥 Experience
-- *2022.12*: &nbsp;🎉🎉 Joined Neusoft Medical System（东软医疗）, as OD Manager 
+- *2022.12*: &nbsp;🎉🎉 Joined Neusoft Medical System（东软医疗）, as Talent Development Expert
 - *2021.12*: &nbsp;🎉🎉 Joined BMW China（宝马中国）, as Organizational Development Consultant
 - *2019.06*: &nbsp;🎉🎉 Joined Johnson & Johnson(强生中国）, as Associate L&D Manager
 - *2017.08*: &nbsp;🎉🎉 Joined Baidu,Inc.（百度）, as Senior OD Professional
