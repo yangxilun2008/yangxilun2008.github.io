@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<div class="hero">
+  <img src="images/your-photo.jpg" alt="Xilun Yang" class="hero__avatar" />
+  <div class="hero__title">Xilun Yang</div>
+  <div class="hero__subtitle">Ph.D. in Management | Talent & OD Expert | Researcher & Consultant</div>
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,7 +23,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xilun Yang, with Ph.D. in Management and dual master’s degrees in MBA and Management, brings over a decade of experience in organizational and talent development within Fortune 500 companies, BAT (Baidu, Alibaba, Tencent), and leading consulting firms. Xilun specializes in strategic consulting for organizational diagnostics and talent strategies aligned with business goals, contributing to transformative initiatives in group-level restructuring for BAT and multinational corporations. As the first author, Xilun has published high-indexed papers in top international management journals, showcasing expertise in integrating academic insights with practical applications.
+Xilun Yang, with Ph.D. in Management and dual master's degrees in MBA and Management, brings over a decade of experience in organizational and talent development within Fortune 500 companies, BAT (Baidu, Alibaba, Tencent), and leading consulting firms. Xilun specializes in strategic consulting for organizational diagnostics and talent strategies aligned with business goals, contributing to transformative initiatives in group-level restructuring for BAT and multinational corporations. As the first author, Xilun has published high-indexed papers in top international management journals, showcasing expertise in integrating academic insights with practical applications.
 
 A skilled practitioner of data-driven talent strategies, Xilun excels in behavioral and competency analyses, establishing competency and behavior labs across various industries. These initiatives have strengthened organizational capabilities in both domestic and international enterprises. Xilun continues to provide consultancy services as an external expert to BAT and leading unicorn companies, leveraging a profound ability to align talent development with business objectives. 
 
