@@ -25,7 +25,7 @@ redirect_from:
 
 Xilun Yang, with Ph.D. in Management and dual master's degrees in MBA and Management, brings over a decade of experience in organizational and talent development within Fortune 500 companies, BAT (Baidu, Alibaba, Tencent), and leading consulting firms. Xilun specializes in strategic consulting for organizational diagnostics and talent strategies aligned with business goals, contributing to transformative initiatives in group-level restructuring for BAT and multinational corporations. As the first author, Xilun has published high-indexed papers in top international management journals, showcasing expertise in integrating academic insights with practical applications.
 
-**杨熙伦**，管理学博士，拥有MBA和管理学双硕士学位，拥有十余年世界500强企业、BAT（百度、阿里巴巴、腾讯）及知名咨询公司的人才与组织发展经验。擅长为企业提供组织诊断与人才战略咨询，助力BAT及跨国集团的集团级变革项目。作为第一作者，在国际顶级管理期刊发表多篇高影响力论文，善于将学术洞见与实践相结合。
+**杨希伦**，管理学博士，拥有MBA和管理学双硕士学位，拥有十余年世界500强企业、BAT（百度、阿里巴巴、腾讯）及知名咨询公司的人才与组织发展经验。擅长为企业提供组织诊断与人才战略咨询，助力BAT及跨国集团的集团级变革项目。作为第一作者，在国际顶级管理期刊发表多篇高影响力论文，善于将学术洞见与实践相结合。
 
 A skilled practitioner of data-driven talent strategies, Xilun excels in behavioral and competency analyses, establishing competency and behavior labs across various industries. These initiatives have strengthened organizational capabilities in both domestic and international enterprises. Xilun continues to provide consultancy services as an external expert to BAT and leading unicorn companies, leveraging a profound ability to align talent development with business objectives.
 
