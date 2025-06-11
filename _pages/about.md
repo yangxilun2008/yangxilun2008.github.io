@@ -29,7 +29,7 @@ Xilun Yang, with Ph.D. in Management and dual master's degrees in MBA and Manage
 
 A skilled practitioner of data-driven talent strategies, Xilun excels in behavioral and competency analyses, establishing competency and behavior labs across various industries. These initiatives have strengthened organizational capabilities in both domestic and international enterprises. Xilun continues to provide consultancy services as an external expert to BAT and leading unicorn companies, leveraging a profound ability to align talent development with business objectives.
 
-作为数据驱动型人才战略的实践者，杨熙伦擅长胜任力与行为分析，在多个行业建立了胜任力与行为实验室，显著提升了企业的组织能力。现作为外部专家持续为BAT及头部独角兽企业提供咨询服务，善于将人才发展与企业战略深度融合。
+作为数据驱动型人才战略的实践者，杨希伦擅长胜任力与行为分析，在多个行业建立了胜任力与行为实验室，显著提升了企业的组织能力。现作为外部专家持续为BAT及头部独角兽企业提供咨询服务，善于将人才发展与企业战略深度融合。
 
 # 🔥 Experience
 - *2022.12*: &nbsp;🎉🎉 Joined Neusoft Medical System（东软医疗）, as Talent Development Expert
