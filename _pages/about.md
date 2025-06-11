@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <div class="hero">
-  <img src="images/your-photo.jpg" alt="Xilun Yang" class="hero__avatar" />
   <div class="hero__title">Xilun Yang</div>
   <div class="hero__subtitle">Ph.D. in Management | Talent & OD Expert | Researcher & Consultant</div>
 </div>
